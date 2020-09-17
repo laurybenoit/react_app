@@ -1,0 +1,25 @@
+{
+  "name": "react_app",
+  "version": "1.0.0",
+  "description": "test directory to learn react",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurybenoit/react_app.git"
+  },
+  "author": "Laury Benoit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurybenoit/react_app/issues"
+  },
+  "homepage": "https://github.com/laurybenoit/react_app#readme",
+  "dependencies": {
+    "bootstrap": "4.5.2",
+    "lite-server": "^2.5.4",
+    "react-popper": "^2.2.3",
+    "reactstrap": "^8.5.1"
+  }
+}
